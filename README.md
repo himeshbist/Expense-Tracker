@@ -1,10 +1,11 @@
-# 💸 Advanced Personal Expense Tracker
+#  Advanced Personal Expense Tracker
 
 An intuitive and powerful web application built with **Python** and **Streamlit** to help you take control of your finances.
 Easily track expenses, visualize spending habits, set budgets, and gain actionable insights to manage your money effectively.
 
-![App Screenshot](https://i.imgur.com/your_screenshot_url.png)
-*Replace with your own app screenshot (you can upload `image_43ff62.png` to Imgur and paste the link here).*
+[👉 **View Live App**](https://expense-tracker-proj.streamlit.app/?embed_options=light_theme,show_colored_line,disable_scrolling,show_padding,dark_theme)
+
+
 
 ---
 
